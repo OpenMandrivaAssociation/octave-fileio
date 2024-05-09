@@ -3,7 +3,7 @@
 Summary:	I/O function for files holding structured data, such as JSON and XML files
 Name:		octave-fileio
 Version:	1.2.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Sciences/Mathematics
 #Url:		https://packages.octave.org/fileio/
