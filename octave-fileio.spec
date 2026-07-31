@@ -2,8 +2,8 @@
 
 Summary:	I/O function for files holding structured data, such as JSON and XML files
 Name:		octave-fileio
-Version:	1.2.2
-Release:	3
+Version:	1.2.4
+Release:	1
 License:	MIT
 Group:		Sciences/Mathematics
 #Url:		https://packages.octave.org/fileio/
@@ -32,7 +32,7 @@ files.
 #---------------------------------------------------------------------------
 
 %prep
-%autosetup -p1 -n %{octpkg}-%{version}
+%autosetup -p1 -n fileio-1.2.4
 
 %build
 %octave_pkg_build
